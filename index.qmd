@@ -1,0 +1,13 @@
+
+---
+title: Home
+page-layout: full
+---
+
+# Welcome
+
+I’m **Mesula Korsa (PhD, Veterinary Science)** — a **Health Data Scientist** focused on turning messy healthcare and public‑health data into decisions that improve outcomes.
+
+This portfolio highlights concise, decision‑ready case studies with **executive summaries, methods, key findings, and recommended actions**.
+
+▶ Start with **[Projects](projects.qmd)**.

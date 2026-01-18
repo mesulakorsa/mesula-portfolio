@@ -1,0 +1,15 @@
+
+---
+title: Projects
+---
+
+## Cyclistic Bike‑Share — Membership Growth & Service Optimization
+*(Methods and storytelling overlap with hospital ops analytics: seasonality, demand curves, service alignment, and A/B experimentation).*  
+
+- **Focus**: Segment differences (casual vs members), seasonality, operations alignment  
+- **Tech**: Power BI (Power Query, DAX)  
+- **Artifacts**:  
+  - [Final case study (DOCX)](Cyclistic_Case_Study_Portfolio_MK.docx)  
+  - [Figures appendix (PDF, ASCII‑safe)](Cyclistic_Case_Study_Figures_Appendix_ASCII.pdf)  
+  - *(Optional)* [Full report (text+figures, PDF, ASCII‑safe)](Cyclistic_Case_Study_Portfolio_MK_Full_ASCII.pdf)
+- **Read the post**: [Full write‑up](posts/cyclistic-case-study.qmd)

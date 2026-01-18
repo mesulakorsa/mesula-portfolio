@@ -1,0 +1,14 @@
+
+---
+title: About
+---
+
+### Mesula Korsa, PhD (Veterinary Science)
+**Health Data Scientist**
+
+- **Interests**: healthcare operations, population health, de‑identification & privacy‑aware analytics, data storytelling.  
+- **Stack**: Power BI (Power Query/DAX), SQL, Python.  
+- **Contact**: Add your LinkedIn & email links here.
+
+**Ethics & Privacy**  
+Public demo projects use de‑identified or synthetic data. For health work, I follow HIPAA de‑identification (Safe Harbor/Expert Determination) and FAIR data documentation practices.
